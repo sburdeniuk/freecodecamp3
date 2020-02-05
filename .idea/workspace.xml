@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6c9ee9e-7566-4c8a-b88a-e9d81315059e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -35,7 +36,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580656165039</updated>
-      <workItem from="1580656173658" duration="5074000" />
+      <workItem from="1580656173658" duration="5822000" />
+      <workItem from="1580749623646" duration="2880000" />
+      <workItem from="1580841093077" duration="8278000" />
+      <workItem from="1580929095485" duration="7515000" />
     </task>
     <servers />
   </component>
@@ -43,9 +47,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="162" key="run.anything.popup" timestamp="1580657643185">
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580930902783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580657643185" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580930902783" />
   </component>
 </project>
